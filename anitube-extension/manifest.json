@@ -1,9 +1,0 @@
-{
-  "id": "anitube",
-  "name": "Anitube",
-  "version": "1.0.0",
-  "type": "anime",
-  "entry": "src/anitube.js",
-  "author": "Makc-Ko",
-  "description": "Anitube.ua source for Animaru"
-}
