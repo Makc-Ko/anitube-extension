@@ -1,0 +1,11 @@
+{
+  "extensions": [
+    {
+      "name": "AnitubeUA",
+      "pkg": "eu.makcko.anitube",
+      "apk": "anitube.apk",
+      "lang": "uk",
+      "version": 1
+    }
+  ]
+}
